@@ -494,6 +494,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .post-gallery-item .post-img {
   width: 50%;
+  height: 200px;
+  overflow: hidden;
 }
 .post-gallery-item a {
   background-image: linear-gradient(#fffcf2, #fffcf2), linear-gradient(#002a56, #002a56);

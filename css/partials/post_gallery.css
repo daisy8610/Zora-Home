@@ -20,6 +20,8 @@
 }
 .post-gallery-item .post-img {
   width: 50%;
+  height: 200px;
+  overflow: hidden;
 }
 @media (max-width: 480px) {
   .post-gallery-item {
